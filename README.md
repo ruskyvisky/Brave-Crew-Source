@@ -2,13 +2,11 @@
 Brave Crew adında kurulan topluluğumuzun kaynakları.
 
 <h1> Sosyal medyada bizi takip edin! </h1>
- <a href="https://www.linkedin.com/groups/9238811/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.instagram.com/brave.crew0/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logo Color=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.linkedin.com/groups/9238811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brave Crew Linkedin" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/brave.crew0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Brave Crew Instagram" height="30" width="40" /></a>
+
 
 <hr>
 
